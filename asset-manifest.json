@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanakupillay-react-app/static/css/main.f8ee1947.css",
+    "main.js": "/kanakupillay-react-app/static/js/main.100406d5.js",
+    "static/js/787.b1334d66.chunk.js": "/kanakupillay-react-app/static/js/787.b1334d66.chunk.js",
+    "index.html": "/kanakupillay-react-app/index.html",
+    "main.f8ee1947.css.map": "/kanakupillay-react-app/static/css/main.f8ee1947.css.map",
+    "main.100406d5.js.map": "/kanakupillay-react-app/static/js/main.100406d5.js.map",
+    "787.b1334d66.chunk.js.map": "/kanakupillay-react-app/static/js/787.b1334d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ee1947.css",
+    "static/js/main.100406d5.js"
+  ]
+}
